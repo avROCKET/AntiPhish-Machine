@@ -15,7 +15,7 @@
 ------------
 
 
-### Training Results:
+### Training Results from initial Demo:
 ##### BERT
 - 89.35% average
 
@@ -25,7 +25,7 @@
 ------------
 
 
-### Testing Results:
+### Testing Results from initial Demo:
 ##### BERT
 - 89.35% average
 
