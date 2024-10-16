@@ -1,0 +1,54 @@
+Original Dataset
+
+Epoch 1/7
+5/5 [==============================] - 4s 240ms/step - loss: 0.6925 - accuracy: 0.5194 - val_loss: 0.6822 - val_accuracy: 0.5152
+Epoch 2/7
+5/5 [==============================] - 1s 104ms/step - loss: 0.6800 - accuracy: 0.5271 - val_loss: 0.6731 - val_accuracy: 0.5152
+Epoch 3/7
+5/5 [==============================] - 1s 100ms/step - loss: 0.6751 - accuracy: 0.5736 - val_loss: 0.6723 - val_accuracy: 0.6667
+Epoch 4/7
+5/5 [==============================] - 0s 95ms/step - loss: 0.6722 - accuracy: 0.7907 - val_loss: 0.6532 - val_accuracy: 0.7576
+Epoch 5/7
+5/5 [==============================] - 0s 97ms/step - loss: 0.6428 - accuracy: 0.8372 - val_loss: 0.6378 - val_accuracy: 0.8182
+Epoch 6/7
+5/5 [==============================] - 0s 93ms/step - loss: 0.5746 - accuracy: 0.8450 - val_loss: 0.5128 - val_accuracy: 0.7273
+Epoch 7/7
+5/5 [==============================] - 0s 96ms/step - loss: 0.4657 - accuracy: 0.8295 - val_loss: 0.5267 - val_accuracy: 0.8182
+
+
+
+Improved Slightly after Data Augmentation (Synonym Replacement)
+
+Epoch 1/7
+9/9 [==============================] - 4s 233ms/step - loss: 0.6875 - accuracy: 0.5969 - val_loss: 0.6904 - val_accuracy: 0.6061
+Epoch 2/7
+9/9 [==============================] - 1s 166ms/step - loss: 0.6773 - accuracy: 0.6667 - val_loss: 0.6862 - val_accuracy: 0.5455
+Epoch 3/7
+9/9 [==============================] - 2s 169ms/step - loss: 0.6514 - accuracy: 0.7209 - val_loss: 0.6341 - val_accuracy: 0.5758
+Epoch 4/7
+9/9 [==============================] - 2s 173ms/step - loss: 0.5915 - accuracy: 0.8023 - val_loss: 0.5941 - val_accuracy: 0.7879
+Epoch 5/7
+9/9 [==============================] - 2s 176ms/step - loss: 0.4656 - accuracy: 0.8488 - val_loss: 0.5563 - val_accuracy: 0.7576
+Epoch 6/7
+9/9 [==============================] - 2s 172ms/step - loss: 0.3805 - accuracy: 0.8527 - val_loss: 0.4930 - val_accuracy: 0.7879
+Epoch 7/7
+9/9 [==============================] - 1s 164ms/step - loss: 0.3622 - accuracy: 0.8566 - val_loss: 0.5309 - val_accuracy: 0.7576
+
+
+
+Significant improvement with Large Dataset and Data Augmentation (Synonym Replacement)
+
+Epoch 1/7
+910/910 [==============================] - 168s 182ms/step - loss: 0.6379 - accuracy: 0.6121 - val_loss: 0.6288 - val_accuracy: 0.6107
+Epoch 2/7
+910/910 [==============================] - 165s 182ms/step - loss: 0.5225 - accuracy: 0.7158 - val_loss: 0.2807 - val_accuracy: 0.9126
+Epoch 3/7
+910/910 [==============================] - 169s 186ms/step - loss: 0.2396 - accuracy: 0.9249 - val_loss: 0.1274 - val_accuracy: 0.9566
+Epoch 4/7
+910/910 [==============================] - 172s 189ms/step - loss: 0.0901 - accuracy: 0.9756 - val_loss: 0.1216 - val_accuracy: 0.9602
+Epoch 5/7
+910/910 [==============================] - 173s 190ms/step - loss: 0.0473 - accuracy: 0.9886 - val_loss: 0.0980 - val_accuracy: 0.9723
+Epoch 6/7
+910/910 [==============================] - 173s 191ms/step - loss: 0.0338 - accuracy: 0.9922 - val_loss: 0.1212 - val_accuracy: 0.9681
+Epoch 7/7
+910/910 [==============================] - 174s 191ms/step - loss: 0.0216 - accuracy: 0.9953 - val_loss: 0.1098 - val_accuracy: 0.9761

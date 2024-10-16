@@ -1,0 +1,171 @@
+04/03/2024, 8:00pm
+---------------------------------------------------------------------------------
+Training Epoch 1: 100%
+ 37/37 [00:27<00:00,  1.73it/s]
+Validating Epoch 1: 100%
+ 5/5 [00:01<00:00,  3.85it/s]
+Epoch 1, Train Loss: 0.5047, Train Acc: 0.7736, Val Loss: 0.3833, Val Acc: 0.7500
+
+
+
+Training Epoch 2: 100%
+ 37/37 [00:25<00:00,  1.70it/s]
+Validating Epoch 2: 100%
+ 5/5 [00:01<00:00,  3.92it/s]
+Epoch 2, Train Loss: 0.1399, Train Acc: 0.9696, Val Loss: 0.3746, Val Acc: 0.9000
+
+
+
+Training Epoch 3: 100%
+ 37/37 [00:26<00:00,  1.67it/s]
+Validating Epoch 3: 100%
+ 5/5 [00:01<00:00,  3.85it/s]
+Epoch 3, Train Loss: 0.0625, Train Acc: 0.9831, Val Loss: 0.2849, Val Acc: 0.8500
+
+
+
+Training Epoch 4: 100%
+ 37/37 [00:26<00:00,  1.67it/s]
+Validating Epoch 4: 100%
+ 5/5 [00:01<00:00,  3.89it/s]
+Epoch 4, Train Loss: 0.0165, Train Acc: 1.0000, Val Loss: 0.3276, Val Acc: 0.8500
+
+
+
+Training Epoch 5: 100%
+ 37/37 [00:26<00:00,  1.63it/s]
+Validating Epoch 5: 100%
+ 5/5 [00:01<00:00,  3.73it/s]
+Epoch 5, Train Loss: 0.0088, Train Acc: 1.0000, Val Loss: 0.3721, Val Acc: 0.8500
+---------------------------------------------------------------------------------
+
+
+04/23/2024, 1:00pm
+---------------------------------------------------------------------------------
+Training Epoch 1: 100%
+ 4094/4094 [27:56<00:00,  2.42it/s]
+Validating Epoch 1: 100%
+ 455/455 [01:09<00:00,  6.54it/s]
+Epoch 1, Train Loss: 0.0568, Train Acc: 0.9802, Val Loss: 0.0211, Val Acc: 0.9931
+
+
+Training Epoch 2: 100%
+ 4094/4094 [27:57<00:00,  2.42it/s]
+Validating Epoch 2: 100%
+ 455/455 [01:09<00:00,  6.57it/s]
+Epoch 2, Train Loss: 0.0145, Train Acc: 0.9954, Val Loss: 0.0170, Val Acc: 0.9945
+
+
+Training Epoch 3: 100%
+ 4094/4094 [27:57<00:00,  2.43it/s]
+Validating Epoch 3: 100%
+ 455/455 [01:09<00:00,  6.57it/s]
+Epoch 3, Train Loss: 0.0080, Train Acc: 0.9976, Val Loss: 0.0055, Val Acc: 0.9975
+
+
+Training Epoch 4: 100%
+ 4094/4094 [27:58<00:00,  2.45it/s]
+Validating Epoch 4: 100%
+ 455/455 [01:09<00:00,  6.57it/s]
+Epoch 4, Train Loss: 0.0050, Train Acc: 0.9983, Val Loss: 0.0044, Val Acc: 0.9989
+
+
+Training Epoch 5: 100%
+ 4094/4094 [27:57<00:00,  2.43it/s]
+Validating Epoch 5: 100%
+ 455/455 [01:09<00:00,  6.51it/s]
+Epoch 5, Train Loss: 0.0058, Train Acc: 0.9981, Val Loss: 0.0081, Val Acc: 0.9984
+---------------------------------------------------------------------------------
+
+
+
+
+
+Training Epoch 1: 100%
+ 45/45 [00:09<00:00,  5.12it/s]
+Validating Epoch 1: 100%
+ 5/5 [00:00<00:00, 12.12it/s]
+Epoch 1, Train Loss: 0.5826, Train Acc: 0.7009, Val Loss: 0.4702, Val Acc: 0.7750
+
+              precision    recall  f1-score   support
+
+           0       0.88      0.67      0.76        21
+           1       0.71      0.89      0.79        19
+
+    accuracy                           0.78        40
+   macro avg       0.79      0.78      0.77        40
+weighted avg       0.80      0.78      0.77        40
+
+
+
+
+Training Epoch 2: 100%
+ 45/45 [00:09<00:00,  5.08it/s]
+Validating Epoch 2: 100%
+ 5/5 [00:00<00:00, 12.28it/s]
+Epoch 2, Train Loss: 0.3138, Train Acc: 0.9028, Val Loss: 0.3593, Val Acc: 0.8500
+
+              precision    recall  f1-score   support
+
+           0       1.00      0.71      0.83        21
+           1       0.76      1.00      0.86        19
+
+    accuracy                           0.85        40
+   macro avg       0.88      0.86      0.85        40
+weighted avg       0.89      0.85      0.85        40
+
+
+
+
+Training Epoch 3: 100%
+ 45/45 [00:09<00:00,  5.25it/s]
+Validating Epoch 3: 100%
+ 5/5 [00:00<00:00, 12.26it/s]
+Epoch 3, Train Loss: 0.1988, Train Acc: 0.9361, Val Loss: 0.2469, Val Acc: 0.8750
+
+              precision    recall  f1-score   support
+
+           0       1.00      0.76      0.86        21
+           1       0.79      1.00      0.88        19
+
+    accuracy                           0.88        40
+   macro avg       0.90      0.88      0.87        40
+weighted avg       0.90      0.88      0.87        40
+
+
+
+
+Training Epoch 4: 100%
+ 45/45 [00:09<00:00,  5.04it/s]
+Validating Epoch 4: 100%
+ 5/5 [00:00<00:00, 12.20it/s]
+Epoch 4, Train Loss: 0.1690, Train Acc: 0.9500, Val Loss: 0.1660, Val Acc: 0.9500
+
+              precision    recall  f1-score   support
+
+           0       0.95      0.95      0.95        21
+           1       0.95      0.95      0.95        19
+
+    accuracy                           0.95        40
+   macro avg       0.95      0.95      0.95        40
+weighted avg       0.95      0.95      0.95        40
+
+
+
+
+Training Epoch 5: 100%
+ 45/45 [00:09<00:00,  5.10it/s]
+Validating Epoch 5: 100%
+ 5/5 [00:00<00:00, 11.85it/s]
+Epoch 5, Train Loss: 0.0886, Train Acc: 0.9778, Val Loss: 0.0328, Val Acc: 0.9750
+
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        21
+           1       1.00      1.00      1.00        19
+
+    accuracy                           1.00        40
+   macro avg       1.00      1.00      1.00        40
+weighted avg       1.00      1.00      1.00        40
+
+

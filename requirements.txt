@@ -1,0 +1,13 @@
+requests
+torch
+transformers
+imapclient
+openai
+tensorflow
+streamlit
+plotly
+pandas
+nltk
+numpy
+scikit-learn
+tqdm
