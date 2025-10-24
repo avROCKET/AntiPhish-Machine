@@ -7,7 +7,6 @@
 ---
 
 [![Watch Demo](https://raw.githubusercontent.com/avROCKET/AntiPhish-Machine/refs/heads/main/Additional%20Resources/logo.png)](https://youtu.be/WruuAY21eGs "AntiPhish Demo")  
-![AntiPhish Logo](https://raw.githubusercontent.com/avROCKET/AntiPhish-Machine/refs/heads/main/Additional%20Resources/logo.png)
 
 [**Watch the Demo Video**](https://youtu.be/WruuAY21eGs)
 
